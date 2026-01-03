@@ -23,11 +23,6 @@
      2022. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
      2024. 12 ~ 한양대학교 전공알림단 Hanyang University Major Manager
 
-# Interest⁉️
-- Cloud Computing ☁️  
-- Finance Investing 💰
-- AI 🤖
-
 # Skill
 - Programming languages:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
