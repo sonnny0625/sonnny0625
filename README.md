@@ -1,6 +1,6 @@
 # Hello I'm 손승민
-끊임없이 성장하는 개발자 손승민입니다. <br />
-사람들과 함께 재미있는 일에 도전하는 것을 좋아합니다.
+끊임없이 성장하고 싶은 개발자 손승민입니다. <br />
+다양한 사람들과 함께 재미있는 일에 도전하는 것을 좋아합니다.
 
 <div>
   <img
@@ -10,7 +10,7 @@
   />
 </div>
 
-## Music I Love🎶
+# Music I Love🎶
 1. 김동률 - 오래된 노래
 2. 윤종신 - 텅 빈 거리에서
 3. YB - 사랑two
@@ -32,6 +32,9 @@
 - DB:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+- ML:
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
 - Cooperation:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
