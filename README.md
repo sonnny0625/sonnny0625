@@ -50,8 +50,13 @@
 > ## 가정용 Iot를 위한 앤드포인트 탐지 및 대응시스템 with LG전자
 - github: https://github.com/SWE-SafeOn/SWE-SafeOn
   
-# Cetifications
+# Certifications
      SQLD(2025.04)
+
+# Goals
+ - more certifications (투운사, aws자격증)
+ - 개발 역량 강화
+ - 재미있고 실용적인 프로젝트 경험 쌓기
 
 ## Contact📫 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andyson0205@gmail.com)
