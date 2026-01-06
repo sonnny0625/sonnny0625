@@ -10,17 +10,23 @@
   />
 </div>
 
-# Music I Love🎶
+# Hobby(Music & Exercise)
+
+### Music I Love🎶
 1. 김동률 - 오래된 노래
 2. 윤종신 - 텅 빈 거리에서
 3. YB - 사랑two
+
+### Exercise💪
+ - Running🏃
+ - MMA🤼
 
 # Work Philosophy🧐 
      Just Do It!
 
 # Activity📚
      2022. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
-     2024. 12 ~ 한양대학교 전공알림단 Hanyang University Major Manager
+     2024. 12 ~ 한양대학교 전공알림단 14기 운영진
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 # Skill
