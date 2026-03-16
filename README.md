@@ -1,7 +1,4 @@
 # Hello I'm 손승민
-끊임없이 성장하고 싶은 개발자 손승민입니다. <br />
-다양한 사람들과 함께 재미있는 일에 도전하는 것을 좋아합니다.
-
 <div>
   <img
     src="https://render.gitanimals.org/farms/sonnny0625"
@@ -16,17 +13,19 @@
 1. 김동률 - 오래된 노래
 2. 윤종신 - 텅 빈 거리에서
 3. YB - 사랑two
+4. 넬 - still sunset
 
 ### Exercise💪
  - Running🏃
- - MMA🤼
+ - Kick Boxing🤼
 
 # Work Philosophy🧐 
      Just Do It!
 
 # Activity📚
      2022. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 🦁   
-     2024. 12 ~ 한양대학교 전공알림단 14기 운영진
+     2024. 12 ~ 2026.03 한양대학교 전공알림단 14기 운영진
+     2026. 12 ~ 한양대학교 전공알림단 15기
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 # Skill
