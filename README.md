@@ -48,6 +48,12 @@
 # Project👨‍💻
 > ## 가정용 Iot를 위한 앤드포인트 탐지 및 대응시스템 with LG전자
 - github: https://github.com/SWE-SafeOn/SWE-SafeOn
+
+> ## 자녀의 성장과 독립을 위한 목표 기반 ETF 투자 서비스, 아이든든(i-Deundeun)
+- github: https://github.com/PDA-paprika
+  
+> ## 주가 급등락 시점의 뉴스와 맥락을 연결해 투자 학습을 돕는 웹 서비스
+- github: https://github.com/why-it-rose
   
 # Certifications
      SQLD(2025.04)
